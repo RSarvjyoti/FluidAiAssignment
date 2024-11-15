@@ -9,6 +9,7 @@ display it in a simple user interface.
 - **Skeleton Loading Animation**: Displays a loading animation while fetching data.
 - **Error Handling**: Shows a user-friendly error message if no results are found.
 - **Responsive Design**: Optimized for all screen sizes using Tailwind CSS.
+## Deployed Link : https://fluid-ai-assignment.vercel.app/
 
 ## Preview
 
